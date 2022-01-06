@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1526749389 source:c:\users\dominic\desktop\hwprojects\bighw3.1\main.cpp
+	<iostream>
+	<string.h>
+	<stdbool.h>
+	<iostream>
+	<string>
+

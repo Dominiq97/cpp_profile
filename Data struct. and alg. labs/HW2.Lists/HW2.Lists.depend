@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525683171 source:c:\users\dominic\desktop\bighw1\hw2.lists\main.cpp
+	<iostream>
+	<string>
+	<map>
+

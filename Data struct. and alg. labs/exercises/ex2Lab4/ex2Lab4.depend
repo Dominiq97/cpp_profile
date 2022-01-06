@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1520847205 source:c:\users\dominic\desktop\facultate\year1\sem2\data structures & architecture\hw2\ex2lab4\main.cpp
+	"mystack.h"
+
+1520845647 c:\users\dominic\desktop\facultate\year1\sem2\data structures & architecture\hw2\ex2lab4\mystack.h
+	<iostream>
+	"mystack.h"
+

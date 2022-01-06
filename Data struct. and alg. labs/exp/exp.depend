@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1526891015 source:c:\users\dominic\desktop\hwprojects\exp\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstdio>
+
